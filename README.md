@@ -26,6 +26,14 @@ node app.js
 http://localhost:3000
 ```
 
+## Running Tests
+
+Run the Playwright test suite:
+
+```bash
+npx playwright test
+```
+
 ## Software Stack
 - [Node.js](https://github.com/nodejs/node)
 - [Express](https://github.com/expressjs/express/)
