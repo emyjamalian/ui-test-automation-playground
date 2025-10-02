@@ -13,7 +13,7 @@ Latest version of this website is always available at [uitestingplayground.com](
 ## Usage
 
 1. Clone the repository
-2. In the package folder run
+2. In the project folder run
 ```bash
 npm install
 ```
@@ -25,6 +25,17 @@ node app.js
 ```
 http://localhost:3000
 ```
+
+## Local Setup Summary
+
+```bash
+git clone https://github.com/<your-org>/ui-test-automation-playground.git
+cd ui-test-automation-playground
+npm install
+node app.js
+```
+
+To stop the server press `Ctrl+C` in the terminal.
 
 ## Running Tests
 
